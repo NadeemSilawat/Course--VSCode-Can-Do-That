@@ -12,6 +12,7 @@ let currentColor = document.getElementById('currentColor');
 let bulb = document.getElementById('bulb');
 let online = window.navigator.onLine;
 
+
 class App {
     /**
      * Initalize the page and websocket connection
